@@ -1,4 +1,7 @@
-### Hi there 👋
+# Welcome to the PROJECT BIGASS-CN
+
+#### Intro
+This project used for fulfilling all the shitting needs raised from the stupid in-system leaders.
 
 <!--
 **bigass-cn/bigass-cn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
